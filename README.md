@@ -1,2 +1,6 @@
 # Programming the Arduino Pro Mini
- arduino-pro-mini
+ Companion Article:
+ Companion Video: 
+
+ Included Files:
+
