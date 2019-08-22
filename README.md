@@ -1,2 +1,2 @@
-# arduino-pro-mini
- Programming the Arduino Pro Mini
+# Programming the Arduino Pro Mini
+ arduino-pro-mini
